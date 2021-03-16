@@ -24,3 +24,4 @@ Qualities for growth mindest:*
 [reading for growth mindest  ](https://www.psychologytoday.com/us/basics/growth-mindset)
 my name is Sanabel Abu-Ezbead Iam civil engeenring ,I join To this course to learn and develope my skills on programming ,and now we learn on github
 [my account on gethup]()
+[my repo]( https://sanabel8.github.io/GROWTH-MENDSET/)
