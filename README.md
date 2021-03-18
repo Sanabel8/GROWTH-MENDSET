@@ -1,15 +1,17 @@
 reading notse
 
 
-my name sanabel 
+my name IS sanabel iam acivil eng Iam taking this course to develope my self in programming domaine 
 
-tabel of content 
+Tabel of content for my course 
 
 
 
- | assignment  |             links                          |
- | ------------|--------------------------------------------|
- |  read1      |   [the coderMs computer](read1.md)         |           
- |  read02a    |   [markdown](read02a.md)                   |
- |  read02b    |   [revisions and the cloud](read02b.md)    |
- |  read3      |   [structure web pages with html](read3.md)|
+ | assignment  |             links                              |
+ | ------------|------------------------------------------------|
+ |  read1      |   [the coderMs computer](read1)                |
+ |  read02a    |   [markdown](read02a)                          |
+ |  read02b    |   [revisions and the cloud](read02b)           |
+ |  read3      |   [structure web pages with html](read3)       |
+ |  lab02a     |   [structure web pages with html](lab02a)      |
+ |  read04a    |   [programming with javascript ](read04a)      |  
