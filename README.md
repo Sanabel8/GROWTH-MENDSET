@@ -16,3 +16,4 @@ Tabel of content for my course
  |  lab02a     |   [structure web pages with html](lab02a)      |
  |  read04a    |   [programming with javascript ](read04a)      | 
  |  read05     |   [operators and loop](read05)                 |
+ |  read06     |   [design web pages with css](read06)          |
