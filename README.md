@@ -21,10 +21,11 @@ Tabel of content for code 102
 
 
          Tabel of content for code 201
+
  
- | assignment  |                   links                                                     |
- | ------------|-----------------------------------------------------------------------------|
- |  read01     |   [Read: 01 - Introductory HTML and JavaScript](read01)                     |
+ | assignment  |   links                                 
+                                                        |-----------------------------------------------------------------------|
+ |  read01     |   [Read: 01 - Introductory HTML and JavaScript]  (read01)                     |
  |  read02     |   [ HTML Text, CSS Introduction, and Basic JavaScript Instruction](read02)  |
  |  read03     |   [ HTML Lists, CSS Boxes, JS Control Flow](read03)                         |
  |  read04     |   [Links, Layouts, and Functions](read04)                                   |
