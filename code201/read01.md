@@ -42,23 +42,23 @@ be used on any element.
 
 * The class attribute :use it to distinguish these elements.
 
-* Block Elements:like <h1>, <p>, <ul>, and <li>.it should start on anew line in the browsre window.
+* Block Elements:like h1, p, ul, and li.it should start on anew line in the browsre window.
 
 * Inline elements : apper to continue on the 
-same line like <a>, <b>, <em>, and <img>.
+same line like a, b, em, and img.
 
-* <div>  allows you to 
+* div  allows you to 
 group a set of elements together 
 in one block-level box .
 
-* <span>  :we can control the 
+* span  :we can control the 
 appearance of the content of 
 these elements using CSS.
 
 * <iframe> is alittle window appear in web browser like agoogle map into apage , the attribute used with it src,height,width ,scrolling (yes or no) , frameborder (0 or 1)
 and seamless .
 
-* <meta> element :1. indide the head element.
+* meta element :1. indide the head element.
                  2. not visible to user 
                  3. not have closing tage
                  4. name and content the most attribute for it .
