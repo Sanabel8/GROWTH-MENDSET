@@ -23,10 +23,7 @@ tages
 
 
 chapter 10
-
-
 css
-
 css allows us to dessign the web pages and make it more attractive like paragraphs ,background,level of headings 
 
 
@@ -40,23 +37,21 @@ color
 
 to determine the color in css:
 
-1.RGB value :HOW MUCH RED, GREEN and BLUE 
+1. RGB value :HOW MUCH RED, GREEN and BLUE 
 like  rgb (100,100,90)   from (0 to 225)
 
-2.HEX code :These are six-digit codes that 
+2. HEX code :These are six-digit codes that 
 represent the amount of red, 
 green and blue in a color
 like  color:#ee3e80;
 
-3.COLOR NAMES :from browser like color: DarkCyan; 
+3. COLOR NAMES :from browser like color: DarkCyan; 
 
 
 background color
 in the body element choose background-color in the same three methode
 
 every pixle on my screen is amix of red ,green and blue.
-
-
 
 
 opacity (alpha value):
@@ -73,14 +68,11 @@ lightnes
 
 
 
-
-
 j.s book
 chapter 2
 
 * every step in js  is clled statement and finish with ; like var color ='red'; each statment beign in anew line 
 and a series of statment is called ascript.
-
 
 
 * code blocks: set of statment inside the {}
@@ -102,7 +94,7 @@ and a series of statment is called ascript.
                       3. no var have the same name
                       4. use camel case for one more world 
 * array used to store list of values are related to each other.
-*array literal: to create the array var name [1vaue , 2value ,...]; 
+* array literal: to create the array var name [1vaue , 2value ,...]; 
 or write like that 
 
 colors= ['white', 
@@ -133,7 +125,7 @@ STRING OPERATORS  BETWEEN " " OR ''
 COMPARISON OPERATORS < > <= >= == === != !==
 LOGICAL OPERATORS && !  II  the ansewr will be true or fulse
 
-*concatenation to join onr more strings to gother using +
+* concatenation to join onr more strings to gother using +
 
 chapter 4
 

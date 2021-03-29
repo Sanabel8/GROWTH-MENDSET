@@ -33,16 +33,16 @@ the page is using .
 
 <!-- --> for write any comments in html.
 
-*every element has id attribute ,its value should start with 
+* every element has id attribute ,its value should start with 
 a letter or an underscore.
 
-*The id attribute is known as a 
+* The id attribute is known as a 
 global attribute because it can 
 be used on any element.
 
-*The class attribute :use it to distinguish these elements.
+* The class attribute :use it to distinguish these elements.
 
-*Block Elements:like <h1>, <p>, <ul>, and <li>.it should start on anew line in the browsre window.
+* Block Elements:like <h1>, <p>, <ul>, and <li>.it should start on anew line in the browsre window.
 
 * Inline elements : apper to continue on the 
 same line like <a>, <b>, <em>, and <img>.
@@ -58,7 +58,7 @@ these elements using CSS.
 * <iframe> is alittle window appear in web browser like agoogle map into apage , the attribute used with it src,height,width ,scrolling (yes or no) , frameborder (0 or 1)
 and seamless .
 
-*<meta> element :1. indide the head element.
+* <meta> element :1. indide the head element.
                  2. not visible to user 
                  3. not have closing tage
                  4. name and content the most attribute for it .
@@ -78,52 +78,46 @@ chapter 17
 * aside if it contain info related to article it should inside the acrtical 
 and if not it should be outsite the article .
 
-*heading groups <hgroup> use for group set of h1,h2...h6 and adjuste on it as one element
-
+* heading groups <hgroup> use for group set of h1,h2...h6 and adjuste on it as one element
 
 
 
 chapter 18
 
-*wireframe is asketck used by designers involves elements of project .
-*we can change size, color , style for text.
+* wireframe is asketck used by designers involves elements of project .
+* we can change size, color , style for text.
 
-*for desiging navigation use <nav></nav> to add links.
+* for desiging navigation use <nav></nav> to add links.
 *  The aim  to create a diagram of the pages that will be used to structure the site. This is 
 known as a site map.
 
 
-
-
-
 chapter 1 js
-
 
 to run ascript :1.press abotton
                 2.tap alink
                 3.use a cursor
                 4.when added info
 
-*in javascript it easy to access to a content and modify it .
+* in javascript it easy to access to a content and modify it .
 
-*in java we can display a slideshows and modify it 
+* in java we can display a slideshows and modify it 
 
 * exa  <p attribute name="attrebute value">name<p/> 
 
-*A script is a series of instructions that a 
-computer can follow to achieve a goal
+* A script is a series of instructions that a 
+ computer can follow to achieve a goal
 
-*the first thing we should make aset of detailed instructions and tasks like
+* the first thing we should make aset of detailed instructions and tasks like
  awireframe
 
-*the script follow the instructions step by step
+* the script follow the instructions step by step
 the process of learning the language: 
 FLOWCHART KEY 
 Event
 Input or output
 Generic step 
  Decision
-
 
 
 EXPRESSIONS
