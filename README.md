@@ -28,8 +28,8 @@ Tabel of content for code 102
  |  read01     |   [Read: 01 - Introductory HTML and JavaScript](read01)                     |
  |  read02     |   [ HTML Text, CSS Introduction, and Basic JavaScript Instruction](read02)  |
  |  read03     |   [ HTML Lists, CSS Boxes, JS Control Flow](read03)                         |
- |  read04     |   [HTML Links, JS Functions, and Intro to CSS Layout](read04)               |
- |  read05     |   [HTML Images; CSS Color & Text](read05)                                   |
+ |  read04     |   [https://github.com/Sanabel8/reading-note/blob/main/code201/read04.md/HTML Links, JS Functions, and Intro to CSS layout](code201/read04)  |
+ |  read05     |   [Images; CSS Color & Text](read05) |
  |  read06     |   [](read06)                                                                | 
  |  read07     |   [](read07)                                                                |
  |  read08     |   [](read08)                                                                |
