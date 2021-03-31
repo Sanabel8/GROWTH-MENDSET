@@ -23,21 +23,21 @@ Tabel of content for code 102
          Tabel of content for code 201
 
  
- | assignment  |   links                                                                     |  
- |-------------| ----------------------------------------------------------------------------|
- |  read01     |   [Read: 01 - Introductory HTML and JavaScript](read01)                     |
- |  read02     |   [ HTML Text, CSS Introduction, and Basic JavaScript Instruction](read02)  |
- |  read03     |   [ HTML Lists, CSS Boxes, JS Control Flow](read03)                         |
- |  read04     |   [https://github.com/Sanabel8/reading-note/blob/main/code201/read04.md/HTML Links, JS Functions, and Intro to CSS layout](code201/read04)  |
- |  read05     |   [Images; CSS Color & Text](read05) |
- |  read06     |   [](read06)                                                                | 
- |  read07     |   [](read07)                                                                |
- |  read08     |   [](read08)                                                                |
- |  read09     |   [](read09)                                                                | 
- |  read010    |   [](read010)                                                               |
- |  read011    |   [](read011)                                                               |
- |  read012    |   [](read012)                                                               | 
- |  read013    |   [](read013)                                                               |
- |  read014a   |   [](read014a)                                                              |
- |  read014b   |   [](read014b)                                                              | 
+ | assignment  |   links                                                                                                              | 
+ |-------------|--------------------------------------------------------------------------------------------------------------------  |
+ |  read01     |   [Read: 01 - Introductory HTML and JavaScript](https://sanabel8.github.io/reading-note//read01)                     |
+ |  read02     |   [HTML Text, CSS Introduction, and Basic JavaScript Instruction](https://sanabel8.github.io/reading-note//read02)   |
+ |  read03     |   [HTML Lists, CSS Boxes, JS Control Flow](https://sanabel8.github.io/reading-note//read03)                          |
+ |  read04     |   [Links, JS Functions, and Intro to CSS layout](https://sanabel8.github.io/reading-note//code201/read04)            |
+ |  read05     |   [Images; CSS Color & Text](https://sanabel8.github.io/reading-note//read05)                                        |
+ |  read06     |   [](read06)                                                                                                         | 
+ |  read07     |   [](read07)                                                                                                         |
+ |  read08     |   [](read08)                                                                                                         |
+ |  read09     |   [](read09)                                                                                                         | 
+ |  read010    |   [](read010)                                                                                                        |
+ |  read011    |   [](read011)                                                                                                        |
+ |  read012    |   [](read012)                                                                                                        | 
+ |  read013    |   [](read013)                                                                                                        |
+ |  read014a   |   [](read014a)                                                                                                       |
+ |  read014b   |   [](read014b)                                                                                                      |  
                                                     
