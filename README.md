@@ -30,7 +30,7 @@ Tabel of content for code 102
  |  read03     |   [HTML Lists, CSS Boxes, JS Control Flow](https://sanabel8.github.io/reading-note//code201/read03)                  |
  |  read04     |   [Links, JS Functions, and Intro to CSS layout](https://sanabel8.github.io/reading-note//code201/read04)            |
  |  read05     |   [Images; CSS Color & Text](https://sanabel8.github.io/reading-note//code201/read05)                                |
- |  read06     |   [](https://sanabel8.github.io/reading-note//code201/read06)                                                        | 
+ |  read06     |   [ JS Object Literals; The DOM](https://sanabel8.github.io/reading-note//code201/read06)                            | 
  |  read07     |   [](https://sanabel8.github.io/reading-note//code201/read07)                                                        |
  |  read08     |   [](https://sanabel8.github.io/reading-note//code201/read08)                                                        |
  |  read09     |   [](https://sanabel8.github.io/reading-note//code201/read09)                                                        | 
