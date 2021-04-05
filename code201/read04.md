@@ -1,4 +1,4 @@
-```
+
 html
 chapter4
 * links allows us to move from one page to another.
@@ -37,14 +37,14 @@ container_12 clearfix to ensure that browsers know the height of the containing 
 ```
  <link rel="stylesheet" type="text/css" href="css/site.css" />
  <link rel="stylesheet" type="text/css" <link rel="stylesheet" type="text/css" href="css/tables.css" />
- <link rel="stylesheet" type="text/css"href="css/typography.css" /> href="css/site.css" />```
-
+ <link rel="stylesheet" type="text/css"href="css/typography.css" /> href="css/site.css" />
+```
 
 j.s chapter3
 function : series of statements together to perform a specific task and it use to store steps needed to achieve a task.
 * structure of function 
-
-```function name(parameters) { 
+```
+function name(parameters) { 
 code ; 
  //parameters used like variables within the funcion.
 } ;
