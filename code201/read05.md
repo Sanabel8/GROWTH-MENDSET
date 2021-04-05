@@ -1,4 +1,4 @@
-```
+
 html
 chapter 5
 * Images should...
@@ -9,8 +9,8 @@ chapter 5
   Fit the color palette
 * when you build site It's better to have image folder to store your images .
 * images folder can contain subfolders (news, products ,interface).
-* to add image we will use <img src ="link of image" alt="text description for image" title= "more ifo for pic"/>.
-* to add hight and width for image <img src ="link of image" alt="text description for image" hight="600" width="200"/>.
+* to add image we will use``` <img src ="link of image" alt="text description for image" title= "more ifo for pic"/>```.
+* to add hight and width for image ```<img src ="link of image" alt="text description for image" hight="600" width="200"/>```
 * Where to Place Images in Your Code:1. before a paragraph
                                     2. inside the start of a paragraph
                                     3. in the middle of a paragraph
@@ -31,13 +31,14 @@ chapter 5
 * <figure> :to contain image 
 * <figcaption> : to add acaption to an image.
 example:
+```
 <figure>
     <img src="images/otters.jpg" alt="Photograph of  two sea otters floating in water">
     <br />
     <figcaption>Sea otters hold hands when they sleep so they don't drift away from each 
                 other.</figcaption>
 </figure>
-
+```
 chapter11
 color
 
@@ -92,14 +93,14 @@ font-family: Georgia, Times, serif ,"Courier New";
 * text-align :( left , right , center , justify)
 * pseudo-elements :first-letter, :first-line
 Attribute Selectors
+```
 - Existence []    p[class]
 - Equality  [=]   p[class="dog"]
 - space     [~=]  p[class~="dog"] 
 - Prefix    [^=]  p[attr^"d"]
 - SubString [^=]  p[attr*"do"]
 - Suffix    [$=]  p[attr$"g"]
-
-
+```
 JPEG vs PNG vs GIF
 
 * use JPEG format :contain a natural scene or photograph where variation in colour and intensity is smooth.
@@ -111,4 +112,3 @@ JPEG vs PNG vs GIF
 * PNG is a lossless image format ,a great choice for images with text, logos and shapes with sharp edges ,  support transparency .
 * GIF is also a lossless image format , mainly used only if the image contains animations,   support transparency .
 
-```

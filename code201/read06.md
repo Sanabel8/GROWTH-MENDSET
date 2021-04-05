@@ -1,4 +1,4 @@
-```
+
 JS
 chapter5
 DOM(document object model):is determine how acssess and update contents of web page in the browser window ,and how create model from html page.
@@ -87,4 +87,3 @@ understanding the problem domian
 
 
 
-```
