@@ -32,7 +32,7 @@ Tabel of content for code 102
  |  read05     |   [Images; CSS Color & Text](https://sanabel8.github.io/reading-note//code201/read05)                                |
  |  read06     |   [JS Object Literals; The DOM](https://sanabel8.github.io/reading-note//code201/read06)                             | 
  |  read07     |   [Object-Oriented Programming, HTML Tables](https://sanabel8.github.io/reading-note//code201/read07)                |
- |  read08     |   [](https://sanabel8.github.io/reading-note//code201/read08)                                                        |
+ |  read08     |   [ CSS Layout](https://sanabel8.github.io/reading-note//code201/read08)                                             |
  |  read09     |   [](https://sanabel8.github.io/reading-note//code201/read09)                                                        | 
  |  read010    |   [](https://sanabel8.github.io/reading-note//code201/read010)                                                       |
  |  read011    |   [](https://sanabel8.github.io/reading-note//code201/read011)                                                       |
