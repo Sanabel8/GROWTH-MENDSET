@@ -73,20 +73,23 @@ atribute:
 . for text input```<input type="text" name="username" size="width of the text" maxlength="for limit of caracters">```
 example:
 
-```<form action="http://www.example.com/login.php">
+```
+<form action="http://www.example.com/login.php">
 <p>Username:
- <input type="text" name="username" size="15" 
+<input type="text" name="username" size="15" 
  maxlength="30" />
 </p>
 <p>Password:
  <input type="password" name="password" size="15" 
  maxlength="30" />
 </p>
-</form>```
+</form>
+```
 
-. radio button example
+. radio button example:
 
-```<form action="http://www.example.com/profile.php">
+```
+<form action="http://www.example.com/profile.php">
 <p>Please select your favorite genre:
  <br />
  <input type="radio" name="genre" value="rock" 
@@ -96,22 +99,19 @@ example:
  <input type="radio" name="genre" value="jazz" /> 
  Jazz
 </p>
-</form>```
+</form>
+```
 
 . for checkbox example:
 
-```<input type="checkbox" name="service" 
- value="itunes" checked="checked" /> iTunes
- <input type="checkbox" name="service" 
- value="lastfm" /> Last.fm
- <input type="checkbox" name="service" 
- value="spotify" />``` 
+```<input type="checkbox" name="service" value="itunes" checked="checked" /> iTunes
+ <input type="checkbox" name="service" value="lastfm" /> Last.fm
+ <input type="checkbox" name="service" value="spotify" />``` 
 
 . image button 
-```
-<input type="image" src="images/subscribe.jpg" 
- width="100" height="20" />
-```
+
+```<input type="image" src="images/subscribe.jpg" width="100" height="20" />```
+
 
 chapter 14
 * list-style-type to control the shape of style.
@@ -122,7 +122,7 @@ chapter 14
                    - lower-roman i. ii. iii.
                    -upper-roman  I II III
 
-* list-style-image we can use list-style-image:``` url("images/star.png");``` to show like stars.
+* list-style-image we can use list-style-image: url("images/star.png"); to show like stars.
 * for table :
  border-spacing;
  border-collapse:colapse or separate;
