@@ -110,7 +110,8 @@ example:
 
 . image button 
 
-```<input type="image" src="images/subscribe.jpg" width="100" height="20" />```
+```
+<input type="image" src="images/subscribe.jpg" width="100" height="20" />```
 
 
 chapter 14
