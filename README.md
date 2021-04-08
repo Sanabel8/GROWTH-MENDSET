@@ -34,7 +34,7 @@ Tabel of content for code 102
  |  read07     |   [Object-Oriented Programming, HTML Tables](https://sanabel8.github.io/reading-note//code201/read07)                |
  |  read08     |   [ CSS Layout](https://sanabel8.github.io/reading-note//code201/read08)                                             |
  |  read09     |   [Forms and JS Events](https://sanabel8.github.io/reading-note//code201/read09)                                     | 
- |  read010    |   [](https://sanabel8.github.io/reading-note//code201/read010)                                                       |
+ |  read010    |   [JS Debugging](https://sanabel8.github.io/reading-note//code201/read010)                                           |
  |  read011    |   [](https://sanabel8.github.io/reading-note//code201/read011)                                                       |
  |  read012    |   [](https://sanabel8.github.io/reading-note//code201/read012)                                                       | 
  |  read013    |   [](https://sanabel8.github.io/reading-note//code201/read013)                                                       |
