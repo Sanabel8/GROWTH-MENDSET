@@ -96,7 +96,8 @@ catch (exception) {
 II If there is an exception, run this code 
 }finally { 
 II This always gets executed
-}```
+}
+```
 
 DEBUGGING TIPS 
 1. ANOTHER BROWSER 
