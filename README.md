@@ -23,21 +23,18 @@ Tabel of content for code 102
          Tabel of content for code 201
 
  
- | assignment  |   links                                                                                                              | 
- |-------------|--------------------------------------------------------------------------------------------------------------------  |
- |  read01     |   [Read: 01 - Introductory HTML and JavaScript](https://sanabel8.github.io/reading-note//code201/read01)             |
- |  read02     |   [HTML Text, CSS Introduction, and Basic JavaScript Instruction](https://sanabel8.github.io/reading-note//read02)   |
- |  read03     |   [HTML Lists, CSS Boxes, JS Control Flow](https://sanabel8.github.io/reading-note//code201/read03)                  |
- |  read04     |   [Links, JS Functions, and Intro to CSS layout](https://sanabel8.github.io/reading-note//code201/read04)            |
- |  read05     |   [Images; CSS Color & Text](https://sanabel8.github.io/reading-note//code201/read05)                                |
- |  read06     |   [JS Object Literals; The DOM](https://sanabel8.github.io/reading-note//code201/read06)                             | 
- |  read07     |   [Object-Oriented Programming, HTML Tables](https://sanabel8.github.io/reading-note//code201/read07)                |
- |  read08     |   [ CSS Layout](https://sanabel8.github.io/reading-note//code201/read08)                                             |
- |  read09     |   [Forms and JS Events](https://sanabel8.github.io/reading-note//code201/read09)                                     | 
- |  read010    |   [JS Debugging](https://sanabel8.github.io/reading-note//code201/read010)                                           |
- |  read011    |   [Audio, Video, Images](https://sanabel8.github.io/reading-note//code201/read011)                                   |
- |  read012    |   [ Chart.js, Canvas](https://sanabel8.github.io/reading-note//code201/read012)                                      | 
- |  read013    |   [](https://sanabel8.github.io/reading-note//code201/read013)                                                       |
- |  read014a   |   [](https://sanabel8.github.io/reading-note//code201/read014a)                                                      |
- |  read014b   |   [](https://sanabel8.github.io/reading-note//code201/(read014)                                                      | |                                                                                                                                              | 
+ | assignment|  links                                                                                                           |-------------------------------------------------------------------------------------------------------------------------------- 
+ |  read01  |   [Read: 01 - Introductory HTML and JavaScript](https://sanabel8.github.io/reading-note//code201/read01)           ||  read02  |   [HTML Text, CSS Introduction, and Basic JavaScript Instruction](https://sanabel8.github.io/reading-note//read02) |
+ |  read03  |   [HTML Lists, CSS Boxes, JS Control Flow](https://sanabel8.github.io/reading-note//code201/read03)                |
+ |  read04  |   [Links, JS Functions, and Intro to CSS layout](https://sanabel8.github.io/reading-note//code201/read04)         | 
+ |  read05  |   [Images; CSS Color & Text](https://sanabel8.github.io/reading-note//code201/read05)                             | 
+ |  read07  |   [Object-Oriented Programming, HTML Tables](https://sanabel8.github.io/reading-note//code201/read07)           |
+ |  read08  |   [ CSS Layout](https://sanabel8.github.io/reading-note//code201/read08)                                        |
+ |  read09  |   [Forms and JS Events](https://sanabel8.github.io/reading-note//code201/read09)                                | 
+ |  read010 |   [JS Debugging](https://sanabel8.github.io/reading-note//code201/read010)                                      |
+ |  read011 |   [Audio, Video, Images](https://sanabel8.github.io/reading-note//code201/read011)                              |
+ |  read012 |   [ Chart.js, Canvas](https://sanabel8.github.io/reading-note//code201/read012)                                 |
+ |  read013 |   [](https://sanabel8.github.io/reading-note//code201/read013)                                                  |
+ |  read014 |   [What Google Learned About Teams](https://sanabel8.github.io/reading-note//code201/read014a)                  |
+ |  read014b|   [](https://sanabel8.github.io/reading-note//code201/(read014)                                                 | 
                                                     
