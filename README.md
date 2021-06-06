@@ -1,7 +1,7 @@
 reading notse
 
 
-my name IS sanabel Iam acivil eng Iam taking this course to develope my self in programming domaine 
+I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my skills in programming
 
 -----------------------------------------Tabel of content for code 102--------------------------------
 
@@ -26,9 +26,11 @@ my name IS sanabel Iam acivil eng Iam taking this course to develope my self in 
 
 
  
- | assignment|  links                                                                                                           |-------------------------------------------------------------------------------------------------------------------------------- 
- |  read01  |   [Read: 01 - Introductory HTML and JavaScript](https://sanabel8.github.io/reading-note//code201/read01)           ||  read02  |   [HTML Text, CSS Introduction, and Basic JavaScript Instruction](https://sanabel8.github.io/reading-note//read02) |
- |  read03  |   [HTML Lists, CSS Boxes, JS Control Flow](https://sanabel8.github.io/reading-note//code201/read03)                |
+ | assignment|  links                                                                                                           |
+ |------------------------------------------------------------------------------------------------------------------------------|
+ |  read01  |   [Read: 01 - Introductory HTML and JavaScript](https://sanabel8.github.io/reading-note//code201/read01)          |
+ |  read02  |   [HTML Text, CSS Introduction, and Basic JavaScript Instruction](https://sanabel8.github.io/reading-note//read02)|
+ |  read03  |   [HTML Lists, CSS Boxes, JS Control Flow](https://sanabel8.github.io/reading-note//code201/read03)               |
  |  read04  |   [Links, JS Functions, and Intro to CSS layout](https://sanabel8.github.io/reading-note//code201/read04)         | 
  |  read05  |   [Images; CSS Color & Text](https://sanabel8.github.io/reading-note//code201/read05)                             | 
  |  read07  |   [Object-Oriented Programming, HTML Tables](https://sanabel8.github.io/reading-note//code201/read07)             |
