@@ -26,7 +26,7 @@ I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my
 
 
  
- |assignment|  links                                                                                                            |
+ |assignment|                                                links                                                              |
  |------------------------------------------------------------------------------------------------------------------------------|
  |  read01  |   [Read: 01 - Introductory HTML and JavaScript](https://sanabel8.github.io/reading-note//code201/read01)          |
  |  read02  |   [HTML Text, CSS Introduction, and Basic JavaScript Instruction](https://sanabel8.github.io/reading-note//read02)|
@@ -50,7 +50,7 @@ I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my
  ------Tabe3 of content for code 301 - Intermediate Software Development---------
  
                                                     
- |assignment|  links                                                                                             |----------------------------------------------------------------------------------------------------------------|
+ |assignment|                                        links                                                       |----------------------------------------------------------------------------------------------------------------|
  |  read01  |   [Introduction to React and Components](https://sanabel8.github.io/reading-note//code301/class01) |
  |  read02  |   [State and Props](https://sanabel8.github.io/reading-note//code301/class02)                      |
  |  read03  |   [Passing Functions as Props](https://sanabel8.github.io/reading-note//code301/class03)           |
