@@ -3,7 +3,7 @@ reading notse
 
 I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my skills in programming
 
-----------Tabel of content for code 102-------------------------
+------Tabel of content for code 102-------
 
 
 
@@ -22,7 +22,7 @@ I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my
 
 
 
------------------------------------------ Tabe2 of content for code 201---------------------------------------------------------
+-------- Tabe2 of content for code 201-------
 
 
  
@@ -47,7 +47,7 @@ I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my
 
 
 
- ------------------------------------Tabe3 of content for code 301 - Intermediate Software Development--------------------------
+ ------Tabe3 of content for code 301 - Intermediate Software Development---------
  
                                                     
  |assignment|  links                                                                                             |----------------------------------------------------------------------------------------------------------------|
