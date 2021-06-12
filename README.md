@@ -47,11 +47,12 @@ I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my
                                                     
  |assignment|         links                                             |
  |----------------------------------------------------------------------|
- |  read01  |   [Introduction to React and Components](code301/class01) |
+ |  read01  |   [Introduction to React and Components](https://sanabel8.github.io/reading-note//code301/class01) |
  |  read02  |   [State and Props](code301/class02)                      |
  |  read03  |   [Passing Functions as Props](code301/class03)           |
  |  read04  |   [React and Forms](code301/class04)                      | 
  |  read05  |   [Putting it all together](code301/class05)              | 
+ |  read06  |   [NODE.JS](code301/class06)                              |
  |  read07  |   [](code301/class06)                                     |
  |  read08  |   [](code301/class07)                                     |
  |  read09  |   [](code301/class08)                                     | 
