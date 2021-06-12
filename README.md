@@ -19,12 +19,7 @@ I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my
  |  read06     |   [design web pages with css](read06)          |
 
 
-
-
-
 -------- Tabe2 of content for code 201-------
-
-
  
  |assignment|                                                links                                                              |
  |------------------------------------------------------------------------------------------------------------------------------|
@@ -41,28 +36,29 @@ I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my
  |  read012 |   [ Chart.js, Canvas](https://sanabel8.github.io/reading-note//code201/read012)                                   |
  |  read013 |   [local storage](https://sanabel8.github.io/reading-note//code201/read013)                                       |
  |  read014 |   [What Google Learned About Teams](https://sanabel8.github.io/reading-note//code201/read014a)                    |
- |  read014b|   [css](https://sanabel8.github.io/reading-note//code201/(read014)                                                   | 
+ |  read014b|   [css](https://sanabel8.github.io/reading-note//code201/(read014)                                                | 
                                                     
 
 
 
 
- ------Tabe3 of content for code 301 - Intermediate Software Development---------
+ -Tabe3 of content for code 301 - Intermediate Software Development-
  
                                                     
- |assignment|                                        links                                                       |----------------------------------------------------------------------------------------------------------------|
- |  read01  |   [Introduction to React and Components](https://sanabel8.github.io/reading-note//code301/class01) |
- |  read02  |   [State and Props](https://sanabel8.github.io/reading-note//code301/class02)                      |
- |  read03  |   [Passing Functions as Props](https://sanabel8.github.io/reading-note//code301/class03)           |
- |  read04  |   [React and Forms](https://sanabel8.github.io/reading-note//code301/class04)                      | 
- |  read05  |   [Putting it all together](https://sanabel8.github.io/reading-note//code301/class05)              | 
- |  read07  |   [](https://sanabel8.github.io/reading-note//code301/class06)                                     |
- |  read08  |   [ ](https://sanabel8.github.io/reading-note//code301/class07)                                    |
- |  read09  |   [](https://sanabel8.github.io/reading-note//code301/class08)                                     | 
- |  read010 |   [](https://sanabel8.github.io/reading-note//code301/class09)                                     |
- |  read011 |   [](https://sanabel8.github.io/reading-note//code301/class10)                                     |
- |  read012 |   [ ](https://sanabel8.github.io/reading-note//code301/class11)                                    |
- |  read013 |   [](https://sanabel8.github.io/reading-note//code301/class12)                                     |
- |  read014 |   [](https://sanabel8.github.io/reading-note//code301/class13)                                     |
- |  read014b|   [](https://sanabel8.github.io/reading-note//code301/class14)                                     | 
+ |assignment|         links                                             |
+ |----------------------------------------------------------------------|
+ |  read01  |   [Introduction to React and Components](code301/class01) |
+ |  read02  |   [State and Props](code301/class02)                      |
+ |  read03  |   [Passing Functions as Props](code301/class03)           |
+ |  read04  |   [React and Forms](code301/class04)                      | 
+ |  read05  |   [Putting it all together](code301/class05)              | 
+ |  read07  |   [](code301/class06)                                     |
+ |  read08  |   [](code301/class07)                                     |
+ |  read09  |   [](code301/class08)                                     | 
+ |  read010 |   [](code301/class09)                                     |
+ |  read011 |   [](code301/class10)                                     |
+ |  read012 |   [](code301/class11)                                     |
+ |  read013 |   [](code301/class12)                                     |
+ |  read014 |   [](code301/class13)                                     |
+ |  read014b|   [](code301/class14)                                     | 
                                                     
