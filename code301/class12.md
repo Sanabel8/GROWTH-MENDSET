@@ -3,14 +3,14 @@ Fill in the chart below with five differences between SQL and NoSQL databases:
                  	            
 
                                                    
- |                            SQL                     |                     NoSQL                                   |
- |------------------------------------------------------------------------------------------------------------------|
- |primarily called as Relational Databases (RDBMS)    |primarily called as non-relational or distributed database.  |
- |table based databases                               |document based, key-value pairs, graph databases or wide-column stores|
- |predefined schema                                   |predefined schema                                             | 
- |vertically scalable                                 |horizontally scalable                                         | 
- |scaled by increasing the horse-power of the hardware|scaled by increasing the databases servers in the pool of resources to reduce the load| 
- |(structured query language ) for defining and manipulating the data | queries are focused on collection of documents , called UnQL (Unstructured Query Language)|
+ |                            SQL                                    |                     NoSQL                                                                 |
+ |---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+ |primarily called as Relational Databases (RDBMS)                   |primarily called as non-relational or distributed database.                                |
+ |table based databases                                              |document based, key-value pairs, graph databases or wide-column stores                     |
+ |predefined schema                                                  |predefined schema                                                                          | 
+ |vertically scalable                                                |horizontally scalable                                                                      | 
+ |scaled by increasing the horse-power of the hardware               |scaled by increasing the databases servers in the pool of resources to reduce the load     | 
+ |(structured query language ) for defining and manipulating the data| queries are focused on collection of documents , called UnQL (Unstructured Query Language)|
 
 
 
