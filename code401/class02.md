@@ -13,8 +13,7 @@ The statement order is as follows.
 2. Imports (optional).
 3. Class or interface definitions.
 
-```
-package illustration;
+```package illustration;
 import java.awt.*;
 public class Drawing {
     . . .
