@@ -1,11 +1,12 @@
-reading notse
+#Reading notes
 
 
-I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my skills in programming
-
-------Tabel of content for code 102-------
-
-
+_I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my skills in programming_
+***
+***
+                                              **Tabel of content for code 102**
+***
+***
 
  | assignment  |             links                              |
  | ------------|------------------------------------------------|
@@ -18,11 +19,14 @@ I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my
  |  read05     |   [operators and loop](read05)                 |
  |  read06     |   [design web pages with css](read06)          |
 
-
--------- Tabe2 of content for code 201-------
+***
+***
+                                               **Table2 of content for code 201**
+***
+***
  
  |assignment|                                                links                                                              |
- |------------------------------------------------------------------------------------------------------------------------------|
+ |----------|-------------------------------------------------------------------------------------------------------------------|
  |  read01  |   [Read: 01 - Introductory HTML and JavaScript](https://sanabel8.github.io/reading-note//code201/read01)          |
  |  read02  |   [HTML Text, CSS Introduction, and Basic JavaScript Instruction](https://sanabel8.github.io/reading-note//read02)|
  |  read03  |   [HTML Lists, CSS Boxes, JS Control Flow](https://sanabel8.github.io/reading-note//code201/read03)               |
@@ -37,12 +41,15 @@ I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my
  |  read013 |   [local storage](https://sanabel8.github.io/reading-note//code201/read013)                                       |
  |  read014 |   [What Google Learned About Teams](https://sanabel8.github.io/reading-note//code201/read014a)                    |
 
-                                                    
- -Table3 of content for code 301 - Intermediate Software Development-
+***
+***                                                
+                                **Table3 of content for code 301 - Intermediate Software Development**
  
-                                                    
+***
+***
+
  |assignment|         links                                                  |
- |---------------------------------------------------------------------------|
+ |----------|----------------------------------------------------------------|
  |  read01  |   [Introduction to React and Components](code301/class01)      |
  |  read02  |   [State and Props](code301/class02)                           |
  |  read03  |   [Passing Functions as Props](code301/class03)                |
@@ -58,13 +65,15 @@ I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my
  |  read013 |   [CRUD](code301/class13)                                      |
  |  read014 |   [Diversity & Inclusion in the Tech Industry](code301/class14)|
 
-
--Table4 of content for Code 401 - Advanced Software Development-
+***
+***
+                                 **Table4 of content for Code 401 - Advanced Software Development**
                                                     
-
+***
+***
                                                     
  |assignment|         links                                                  |
- |---------------------------------------------------------------------------|
+ |----------|----------------------------------------------------------------|
  |  read01  |   [Java Basics](code401/class01)                               |
  |  read02  |   [ Arrays, Loops, Imports](code401/class02)                   |
  |  read03  |   [Maps, primitives, File I/O](code401/class03)                |

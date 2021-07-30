@@ -23,7 +23,9 @@ class MountainBike extends Bicycle {
     // new fields and methods defining 
     // a mountain bike would go here
 
-}```
+}
+
+```
 ###What Is an Interface?
  interface is a group of related methods with empty bodies.
 ###What Is a Package?
