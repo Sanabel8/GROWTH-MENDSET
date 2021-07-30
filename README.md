@@ -1,7 +1,8 @@
 # Reading notes
 
 
-_I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my skills in programming_
+_I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my skills in programming and learning multiple of programming langouges_
+### The tables about reading stuff for programming and teaching the Java ,JavaScript ,HTML ,css ...
 ***
 ***
                                                Tabel of content for code 102
