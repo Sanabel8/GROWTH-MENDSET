@@ -1,6 +1,6 @@
 Linked Lists
 * Linked List : 1. sequence of Nodes each Node references the next Node in the link.
-                2. A data structure that contains nodes that links/points to the next node in the list.
+                42. A data structure that contains nodes that links/points to the next node in the list.
 * type of linked list : Singly and Doubly.
 * Singly :there is only one reference, and the reference points to the Next node in a linked list.
 * Nodes :are links that live in a linked list
