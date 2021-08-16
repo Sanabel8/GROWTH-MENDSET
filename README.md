@@ -90,8 +90,8 @@ _I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop m
  |  read13  |   [Related Resources and Integration Testing](code401/class13) |
  |  read14  |   [Trees](code401/class14)                                     |
  |  read15  |   [](code401/class15)                                          |
- |  read16  |   [ Spring Authentication](code401/class16)                    |
- |  read17  |   [](code401/class17)                                          |
+ |  read16  |   [Spring Authentication](code401/class16)                     |
+ |  read17  |   [Spring Authorization](code401/class17)                      |
  |  read18  |   [](code401/class18)                                          |
  |  read19  |   [](code401/class19)                                          |
  |  read20  |   [](code401/class20)                                          |
