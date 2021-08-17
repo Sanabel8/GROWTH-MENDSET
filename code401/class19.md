@@ -3,6 +3,7 @@
 1. To start from scratch, move on to Starting with Spring Initializr.
 2. If you use Gradle, visit the Spring Initializr (https://start.spring.io/)to generate a new project with the required dependency (Websocket).
 3. build.gradle file:
+
 ```plugins {
 	id 'org.springframework.boot' version '2.5.2'
 	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
@@ -26,6 +27,7 @@ test {
 	useJUnitPlatform()
 }
 ```
+
 ## Adding Dependencies
 * If you use Gradle, you need to add the following dependencies:
 implementation 'org.webjars:webjars-locator-core'
@@ -40,6 +42,7 @@ implementation 'org.webjars:jquery:3.1.1-1'
 ## Create a Message-handling Controller
 * STOMP messages can be routed to @Controller classes.
 *  For example, the GreetingController (from src/main/java/com/example/messagingstompwebsocket/GreetingController.java)
+
 ```package com.example.messagingstompwebsocket;
 
 import org.springframework.messaging.handler.annotation.MessageMapping;
@@ -60,6 +63,7 @@ public class GreetingController {
 
 }
 ```
+
 * The @MessageMapping annotation ensures that, if a message is sent to the /hello destination, the greeting() method is called.
 * as specified in the @SendTo annotation. Note that the name from the input message is sanitized, since, in this case, it will be echoed back and re-rendered in the browser DOM on the client side.
 ## Configure Spring for STOMP messaging
