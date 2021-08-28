@@ -51,6 +51,7 @@
     </application>
 </manifest>
 ```
+
 * You must declare all app components using the following elements:
 1. <activity> elements for activities.
 2. <service> elements for services.
@@ -59,6 +60,7 @@
 
 ##Declaring component capabilities
 * you can use an Intent to start activities, services, and broadcast receivers.
+
 ```<manifest ... >
     ...
     <application ... >
