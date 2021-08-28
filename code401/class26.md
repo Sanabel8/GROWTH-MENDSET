@@ -41,6 +41,7 @@
 ##The manifest file
 * Before the Android system can start an app component, the system must know that the component exists by reading the app's manifest file, AndroidManifest.xml. Your app must declare all its components in this file, which must be at the root of the app project directory.
 ##Declaring components
+
 ```<?xml version="1.0" encoding="utf-8"?>
 <manifest ... >
     <application android:icon="@drawable/app_icon.png" ... >
@@ -57,7 +58,6 @@
 2. <service> elements for services.
 3. <receiver> elements for broadcast receivers.
 4. <provider> elements for content providers.
-
 ##Declaring component capabilities
 * you can use an Intent to start activities, services, and broadcast receivers.
 
