@@ -43,12 +43,11 @@
 ##Declaring components
 
 ```<?xml version="1.0" encoding="utf-8"?>
-<manifest ... >
-    <application android:icon="@drawable/app_icon.png" ... >
+<manifest  >
+    <application android:icon="@drawable/app_icon.png" >
         <activity android:name="com.example.project.ExampleActivity"
-                  android:label="@string/example_label" ... >
+                  android:label="@string/example_label">
         </activity>
-        ...
     </application>
 </manifest>
 ```
@@ -61,9 +60,8 @@
 ##Declaring component capabilities
 * you can use an Intent to start activities, services, and broadcast receivers.
 
-```<manifest ... >
-    ...
-    <application ... >
+```<manifest >
+    <application >
         <activity android:name="com.example.project.ComposeEmailActivity">
             <intent-filter>
                 <action android:name="android.intent.action.SEND" />
