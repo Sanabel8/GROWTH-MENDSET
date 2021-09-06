@@ -106,7 +106,7 @@ _I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop m
  |  read29  |   [Room](code401/class29)                                      |
  |  read30  |   [Hash-tables](code401/class30)                               |
  |  read31  |   [Espresso](code401/class31)                                  |
- |  read32  |   [Serverless and Amplify](code401/class32.md)                 |
- |  read33  |   [Espresso](code401/class33)                                  |
- |  read34  |   [Espresso](code401/class34)                                  |
- |  read35  |   [Espresso](code401/class35)                                  |
+ |  read32  |   [Serverless and Amplify](code401/class32)                    |
+ |  read33  |   [GraphQL @connection](code401/class33)                       |
+ |  read34  |   [](code401/class34)                                  |
+ |  read35  |   [](code401/class35)                                  |
