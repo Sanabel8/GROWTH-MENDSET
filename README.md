@@ -108,5 +108,5 @@ _I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop m
  |  read31  |   [Espresso](code401/class31)                                  |
  |  read32  |   [Serverless and Amplify](code401/class32)                    |
  |  read33  |   [GraphQL @connection](code401/class33)                       |
- |  read34  |   [](code401/class34)                                  |
+ |  read34  |   [Android Monetization](code401/class34)                      |
  |  read35  |   [](code401/class35)                                  |
