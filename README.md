@@ -110,3 +110,8 @@ _I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop m
  |  read33  |   [GraphQL @connection](code401/class33)                       |
  |  read34  |   [Android Monetization](code401/class34)                      |
  |  read35  |   [Graphs](code401/class35)                                    |
+ |  read36  |   [Amplify and Cognito](code401/class36)                       |
+ |  read37  |   [](code401/class37)                                          |
+ |  read38  |   [](code401/class38)                                          |
+ |  read39  |   [](code401/class39)                                          |
+
