@@ -1,35 +1,115 @@
-# Amplify and Kinesis
-* The Analytics category enables you to collect analytics data for your App.
-## Set up Analytics backend
-1. run in the terminal amplify add analytics
-2. selcet :
-? Select an Analytics provider (Use arrow keys)
-    `Amazon Pinpoint`
-? Provide your pinpoint resource name:
-    `yourPinpointResourceName`
-? Apps need authorization to send analytics events. Do you want to allow guests and unauthenticated users to send analytics events? (we recommend you allow this when getting started)
-    `Yes`
-3. amplify push
-4. add these dependencies :
-dependencies {
-    // Add these lines in `dependencies`
-    implementation 'com.amplifyframework:aws-analytics-pinpoint:1.24.0'
-    implementation 'com.amplifyframework:aws-auth-cognito:1.24.0'
-}
-5. make sync
-6. add :
-Amplify.addPlugin(new AWSCognitoAuthPlugin());
-Amplify.addPlugin(new AWSPinpointAnalyticsPlugin(this));
-## Record events
-```AnalyticsEvent event = AnalyticsEvent.builder()
-    .name("PasswordReset")
-    .addProperty("Channel", "SMS")
-    .addProperty("Successful", true)
-    .addProperty("ProcessDuration", 792)
-    .addProperty("UserAge", 120.3)
-    .build();
+# SNS: Getting Started
+Step 1: Create a topic
+1. Sign in to the Amazon SNS console.
+2. In the left navigation pane, choose Topics.
+3. On the Topics page, choose Create topic.
+4. By default, the console creates a FIFO topic. Choose Standard.
+5. In the Details section, enter a Name for the topic, such as MyTopic.
+6. Scroll to the end of the form and choose Create topic.
+7. The console opens the new topic's Details page.
 
-Amplify.Analytics.recordEvent(event);
+Step 2: Create a subscription to the topic
+Step 3: Publish a message to the topic
+Step 4: Delete the subscription and topic
+# SNS with Amplify (and Firebase)
+* Enable your users to receive mobile push messages sent from the Apple (APNs) and Google (FCM/GCM) platforms.
+* The CLI deploys your push notification backend using Amazon Pinpoint
+1.  add the SDK to your app.
+
+```cd ./YOUR_PROJECT_FOLDER
+amplify add notifications
 ```
-## View Analytics console by using : 
-amplify console analytics
+
+2. Choose Firebase Cloud Messaging (FCM).
+> FCM
+3. Add the following dependencies and plugin to your app/build.gradle:
+
+```dependencies {
+    // Overrides an auth dependency to ensure correct behavior
+    implementation 'com.google.android.gms:play-services-auth:19.2.0'
+
+    // Import the BoM for the Firebase platform
+    implementation platform('com.google.firebase:firebase-bom:28.2.1')
+    implementation 'com.google.firebase:firebase-messaging'
+
+    implementation 'com.amazonaws:aws-android-sdk-pinpoint:2.25.+'
+    implementation ('com.amazonaws:aws-android-sdk-mobile-client:2.26.+@aar') { transitive = true }
+}
+
+apply plugin: 'com.google.gms.google-services'
+```
+
+4. Add the following to your project level build.gradle:
+
+```
+buildscript {
+    dependencies {
+        classpath 'com.google.gms:google-services:4.0.1'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+    }
+}
+```
+5. added this tag to AndroidManifest.xml:
+
+```<service
+    android:name=".PushListenerService">
+    <intent-filter>
+        <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+    </intent-filter>
+</service>
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
