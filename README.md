@@ -112,6 +112,6 @@ _I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop m
  |  read35  |   [Graphs](code401/class35)                                    |
  |  read36  |   [Amplify and Cognito](code401/class36)                       |
  |  read37  |   [S3](code401/class37)                                        |
- |  read38  |   [](code401/class38)                                          |
+ |  read38  |   [Amplify and Kinesis](code401/class38)                       |
  |  read39  |   [](code401/class39)                                          |
 
