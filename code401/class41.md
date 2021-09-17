@@ -25,8 +25,11 @@
     </intent-filter>
    </activity>
 ```
+
 ## Handle the Intent in Your Activity
-* call getIntent() to retrieve the Intent that started the activity. , but you should generally do so during early callbacks such as onCreate() or onStart().
+
+- call getIntent() to retrieve the Intent that started the activity. , but you should generally do so during early callbacks such as onCreate() or onStart().
+
 ```@Override
 protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
@@ -45,4 +48,3 @@ protected void onCreate(Bundle savedInstanceState) {
     }
 }
 ```
-
