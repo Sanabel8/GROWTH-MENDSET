@@ -24,6 +24,7 @@
         <data android:mimeType="image/*"/>
     </intent-filter>
    </activity>
+   
 ```
 
 ## Handle the Intent in Your Activity
@@ -47,4 +48,5 @@ protected void onCreate(Bundle savedInstanceState) {
         // Handle intents with text ...
     }
 }
+
 ```
