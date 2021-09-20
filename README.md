@@ -109,4 +109,5 @@ _I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop m
  |  read39  |   [Amplify and Kinesis](code401/class39)                       |
  |  read41  |   [Intent Filters](code401/class41)                            |
  |  read42  |   [Location](code401/class42)                                  |
+ |  read43  |   [Amplify and Kinesis](code401/class43)                       |
 

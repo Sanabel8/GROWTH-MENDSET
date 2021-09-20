@@ -33,6 +33,7 @@ An Android application targeting at least Android SDK API level 16 with Amplify 
 ```// Add this line, to include the Auth plugin.
 Amplify.addPlugin(new AWSCognitoAuthPlugin());
 Amplify.configure(getApplicationContext());
+
 ```
 
 ## Check the current auth session
@@ -43,6 +44,7 @@ Amplify.configure(getApplicationContext());
     result -> Log.i("AmplifyQuickstart", result.toString()),
     error -> Log.e("AmplifyQuickstart", error.toString())
 );
+
 ```
 
 ## Sign in
@@ -60,6 +62,7 @@ Amplify.Auth.signUp("username", "Password123", options,
     result -> Log.i("AuthQuickStart", "Result: " + result.toString()),
     error -> Log.e("AuthQuickStart", "Sign up failed", error)
 );
+
 ```
 
 - The next step in the sign up flow is to confirm the user. A confirmation code will be sent to the email id provided during sign up.
@@ -70,6 +73,7 @@ Amplify.Auth.signUp("username", "Password123", options,
     result -> Log.i("AuthQuickstart", result.isSignUpComplete() ? "Confirm signUp succeeded" : "Confirm sign up not complete"),
     error -> Log.e("AuthQuickstart", error.toString())
 );
+
 ```
 
 ## Sign in a user
@@ -82,4 +86,5 @@ Amplify.Auth.signUp("username", "Password123", options,
     result -> Log.i("AuthQuickstart", result.isSignInComplete() ? "Sign in succeeded" : "Sign in not complete"),
     error -> Log.e("AuthQuickstart", error.toString())
 );
+
 ```
